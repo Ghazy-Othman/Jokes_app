@@ -1,16 +1,11 @@
-# flutter_app_04
+# Jokes app
+Hello Coders . <br>
+This is a very simple app the show a list of jokes on the screen . <br>
+I did not use state management inside it , just setState . <br>
 
-A new Flutter project.
+I hope U all like it . <br>
 
-## Getting Started
+## Feedback
+Your feedback is always welcome and you can give me advice to improve my skills. <br>
+Contact me : `ghazi.h.othman@gmail.com` 
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
