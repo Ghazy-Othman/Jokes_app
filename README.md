@@ -7,5 +7,5 @@ I hope U all like it . <br>
 
 ## Feedback
 Your feedback is always welcome and you can give me advice to improve my skills. <br>
-Contact me : `ghazi.h.othman@gmail.com` 
+Contact me : `ghazy.h.othman@gmail.com` 
 
